@@ -6,8 +6,8 @@ Este projeto propõe o desenvolvimento de um banco de dados completo para um esp
 
 ## 👥 Integrantes
 
-Bruno De Lima Santos
-Eduardo Kruger Da Silva De Souza
+Bruno De Lima Santos \\
+Eduardo Kruger Da Silva De Souza \\
 Henrique Dos Santos Oliveira
 
 
@@ -55,6 +55,9 @@ A rede **WorkHub** oferece estações compartilhadas, salas de reunião e escrit
 
 
 # 2. script DDL completo
+
+Anexado ao projeto SQL.
+
 # 3. script de população inicial - DML
 
 Anexado ao projeto SQL.
