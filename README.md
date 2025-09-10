@@ -10,7 +10,6 @@ Bruno De Lima Santos
 Eduardo Kruger Da Silva De Souza
 Henrique Dos Santos Oliveira
 
-> 🖼️ Salve sua foto na pasta `/imagens` com o nome correspondente.
 
 ---
 
